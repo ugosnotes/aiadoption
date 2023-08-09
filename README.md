@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @aiadoption
-- 👀 interested in enabling organizations LAND, SCALE and SUSTAIN analytics/AI.
-- 🌱 currently going deep on the impact/influence of value acceleration, customer success and change management on the adoption of analytics capabilities and the growth of data SaaS products.
-- 💞️ looking to collaborate on all topics that lead to successful enterprise scale analytics/AI adoption
+- 💞️ enable organizations' LAND, SCALE, and SUSTAIN Analytics capabilities
+- 💞️ working with customers to optimize their Analytics workloads on Azure
+- 🌱 intrigued by the impact/influence of value acceleration, customer success, and change management on the adoption of analytics capabilities and the growth of data SaaS products.
+- 👀 looking to collaborate on all topics that lead to successful enterprise-scale Analytics adoption
 - 📫 How to reach me - drop a note
 
 <!---
